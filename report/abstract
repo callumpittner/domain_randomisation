@@ -1,3 +1,7 @@
+---------------------------FULL REPORT IS AVAILABLE ON REQUEST---------------------------------------
+
+Abstract:
+
 Domain Randomisation (DR) is concerned with the creation of generating synthetic datasets to
 overcome the challenges of collecting real-world image datasets. This project assesses DR as a means
 to generate image datasets of rendered CAD models, for the use in Convolutional Neural Networks
@@ -13,5 +17,3 @@ generating a DR compliant dataset of high quality, provides strong CNN hyperpara
 introduces newer object identification technologies that may serve useful in future experimentation.
 The report concludes with a discussion on insights into future research efforts that may allow for the
 use of the technique with different approaches.
-
----------------------------FULL REPORT IS AVAILABLE ON REQUEST---------------------------------------
