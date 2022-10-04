@@ -1,0 +1,17 @@
+Domain Randomisation (DR) is concerned with the creation of generating synthetic datasets to
+overcome the challenges of collecting real-world image datasets. This project assesses DR as a means
+to generate image datasets of rendered CAD models, for the use in Convolutional Neural Networks
+(CNNs) based upon object detection of CAD models. A literature review was conducted that
+identified the typical domains to be randomised, where ‘domain’ refers to randomisable attributes
+within the image, to get as close to real-world variability as possible. A dataset was generated, and a
+bespoke CNN model was trained on this synthetic dataset through hyper-tuning using state of the art
+hyperparameter optimisation methods. Results indicate the strength of CNNs in image classification
+tasks but illustrate the shortcomings of generalisation towards different paradigms. The results show
+that an approach based on DR best practices was not able to overcome the sim-2-real transfer of
+learning, highlighting the need for future work. This project stands as a baseline reference for
+generating a DR compliant dataset of high quality, provides strong CNN hyperparameter methods and
+introduces newer object identification technologies that may serve useful in future experimentation.
+The report concludes with a discussion on insights into future research efforts that may allow for the
+use of the technique with different approaches.
+
+---------------------------FULL REPORT IS AVAILABLE ON REQUEST---------------------------------------
